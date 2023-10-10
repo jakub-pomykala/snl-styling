@@ -250,5 +250,9 @@ footer {
   .container>div {
 	border: 0px !important;
   }
+  
+  .course-tabs-navigation {
+	display: none !important;
+  }
 }
 
