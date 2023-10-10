@@ -231,28 +231,8 @@ footer {
     width: 100%;
   }
 
-  .xmodule_display.xmodule_SequenceBlock .sequence-bottom {
-    display: none !important;
+  #launch_cloud_ide > section > p > button {
+    background: #abd155 !important;
   }
 
-  .xmodule_display.xmodule_SequenceBlock .sequence-nav {
-	display: none !important;
-  }
-
-  .page-header {
-	display: none !important;
-  }
-
-  body.view-in-course .wrapper-course-material .course-material .course-tabs {
-	display: none !important;
-  }
-
-  .container>div {
-	border: 0px !important;
-  }
-  
-  .course-tabs-navigation {
-	display: none !important;
-  }
 }
-
